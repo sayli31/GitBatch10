@@ -8,6 +8,8 @@ public class LoginTest {
 		int i=10;
 		System.out.println("Login test");
 		
+		String name ="";
+		
 		
 		
 		
