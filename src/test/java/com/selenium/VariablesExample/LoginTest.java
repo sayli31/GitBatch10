@@ -11,8 +11,13 @@ public class LoginTest {
 
 		String str1;
 		
+		
+		
 
 		String name ="";
+		
+		str1 = "Hello";
+		
 
 		
 		
